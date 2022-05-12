@@ -1,1 +1,2 @@
-This is an alteration to the file
+This is an alteration to the file.
+this is another alteration.
